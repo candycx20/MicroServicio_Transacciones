@@ -1,10 +1,14 @@
 com\example\demo\controllers\DatosController.class
+com\example\demo\services\ClientesService.class
 com\example\demo\models\Zapatos.class
 com\example\demo\repositories\ComidasRepository.class
 com\example\demo\models\Comidas.class
 com\example\demo\controllers\ZapatosController.class
 com\example\demo\repositories\ZapatosRepository.class
+com\example\demo\repositories\ClientesRepository.class
 com\example\demo\models\Datos.class
+com\example\demo\controllers\ClientesController.class
 com\example\demo\repositories\DatosRepository.class
 com\example\demo\services\DatosService.class
 com\example\demo\services\ZapatosService.class
+com\example\demo\models\Clientes.class
